@@ -44,6 +44,7 @@ import java.io.OutputStream
 import java.text.SimpleDateFormat
 import java.util.*
 
+
 @SuppressLint("LongLogTag")
 @RequiresApi(Build.VERSION_CODES.LOLLIPOP)
 class PlantActivity : AppCompatActivity() {
