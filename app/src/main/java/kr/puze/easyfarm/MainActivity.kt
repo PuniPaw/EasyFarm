@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-
         // Android Compose 를 이용한 View 구성
         setContent {
             // 화면을 최대로, 배경색상을 #FFFFFF, #3399FF 의 그라데이션으로 설정
